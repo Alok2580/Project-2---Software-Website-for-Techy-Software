@@ -33,7 +33,7 @@ To set up a local copy:
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/sherwinvishesh/Software-Company-Website.git
+  git@github.com:Alok2580/Website-for-a-Software-Company.git
    ```
  2.Navigate to the directory:
  ```sh
